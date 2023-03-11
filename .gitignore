@@ -1,0 +1,22 @@
+/booking_app_backend/node_modules
+/booking_app_frontendend/node_modules
+
+/booking_app_frontendend/.pnp
+/booking_app_frontendend.pnp.js
+
+# testing
+/booking_app_frontendend/coverage
+
+# production
+/booking_app_frontendend/build
+
+# misc
+/booking_app_frontendend.DS_Store
+/booking_app_frontendend.env.local
+/booking_app_frontendend.env.development.local
+/booking_app_frontendend.env.test.local
+/booking_app_frontendend.env.production.local
+
+/booking_app_frontendend/npm-debug.log*
+/booking_app_frontendend/yarn-debug.log*
+/booking_app_frontendend/yarn-error.log*
